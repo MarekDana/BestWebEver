@@ -1,2 +1,0 @@
-# BestWebEver
-Created with CodeSandbox
